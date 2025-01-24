@@ -7,6 +7,6 @@ class Str_compare {
         String S1 = asw.nextLine();
         System.out.print("Enter a String : ");
         String S2 = asw.nextLine();
-        System.out.println("The Strings are equal: " + S1.equals(S2));
+        System.out.println( S1.equals(S2));
     }
 }
